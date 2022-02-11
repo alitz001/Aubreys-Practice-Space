@@ -1,3 +1,3 @@
-# Practice02.09.2022
-# this is to practice 
+## Aubrey's Practice Space
+### Learning to be a nerd 
 
