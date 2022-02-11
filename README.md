@@ -1,3 +1,2 @@
 ## Aubrey's Practice Space
-### Learning to be a nerd 
-
+### Learning to be a nerd lol
