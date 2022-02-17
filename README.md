@@ -12,7 +12,7 @@ I want to learn:
    - image processing
    - small skills, like loops 
    - AI, machine learning, and deep learning concenpts
-   - markdown (as seen in this read.me)✔️ 
+   - markdown (as seen in this readme.md)✔️ 
 
 <br clear="left"/>
 
